@@ -1,7 +1,7 @@
 
 <div>
   <!-- https://picrew.me -->
-  <img align="right" src="https://media.discordapp.net/attachments/845803252389380166/938206379305476096/download20220202225334.png" style="width:160px;">
+  <img align="right" width="160" src="https://cinthia-fontoura-portfolio.netlify.app/assets/images/perfil-animation_hero.gif">
   <br> 
     
   <h1 style="display: block;">Hey! I'm Cinthia.
@@ -23,6 +23,7 @@
       <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
       <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
       <img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"> 
+      <img align="center" alt="Slack" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg"> 
       <br>
       <br>
     </h2>  
