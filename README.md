@@ -43,7 +43,10 @@
         <div style="width: 180px;">
           <a href="https://api.eu.badgr.io/public/assertions/Ow9z8TRqQbqzmJwMZhM6xw?identity__email=cinthiafontouras%40gmail.com" target="_blank">
             <img width="150px" height="150px" src="https://api.eu.badgr.io/public/assertions/Ow9z8TRqQbqzmJwMZhM6xw/image">
-          </a>                      
+          </a>      
+          <a href="https://api.eu.badgr.io/public/assertions/QXsWvxDDTpaBjkLza12naQ?identity__email=cinthiafontouras%40gmail.com" target="_blank">
+            <img width="150px" height="150px" src="https://api.eu.badgr.io/public/assertions/QXsWvxDDTpaBjkLza12naQ/image"">
+          </a> 
         </div>
       </div> 
       <br>
