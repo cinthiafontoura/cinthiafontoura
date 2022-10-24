@@ -29,7 +29,8 @@
       <img align="center" alt="Python" height="60" width="50" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
       <img align="center" alt="Flask" height="60" width="50" title="Flask" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
       <img align="center" alt="Django" height="60" width="50" title="Django" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-      <img align="center" alt="MongoDB" height="60" width="50" title="" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+      <img align="center" alt="PostgreSQL" height="60" width="50" title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+      <img align="center" alt="MongoDB" height="60" width="50" title="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
       <img align="center" alt="Jest" height="60" width="50" title="Jest" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
       <img align="center" alt="VSCode" height="60" width="50" title="VSCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
       <img align="center" alt="PyCharme" height="60" width="50" title="PyCharme" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
